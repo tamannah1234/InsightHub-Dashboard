@@ -279,7 +279,7 @@ A: Use mock data or alternative sources, but ensure data accuracy and mention th
 ## 📞 Support
 
 - **Community Discord**: [Link](https://discord.com/invite/XRBheB9QF9)
-- **Challenge Discussion**: [GitHub Discussions Link]
+- **Challenge Discussion**: [GitHub Discussions Link](https://github.com/Lets-code-with-us/Letscode-Community-Challenge-1/discussions/2)
 - **Technical Help**: [Twitter](https://x.com/shubham007913)
 
 ---
