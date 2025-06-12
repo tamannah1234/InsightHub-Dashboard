@@ -8,7 +8,7 @@ Welcome to our internal community coding challenge! Build an interactive dashboa
 ## 📋 Problem Statement
 
 ### Title
-**"Decoding Development: A Data-Driven Dashboard for National Growth Metrics"**
+**"Decoding Development: A Data-Driven Dashboard for India Growth Metrics"**
 
 ### Background
 Every nation's progress depends not on one factor but on a blend of economic, social, and environmental indicators. Understanding this data holistically can drive better policy-making, awareness, and decision-making.
@@ -21,7 +21,7 @@ Design and develop an interactive data dashboard or application that visualizes 
 ## ✅ Required Features
 
 ### Core Data Visualization (30+ Metrics)
-Your dashboard must collect and visualize the following metrics across countries:
+Your dashboard must collect and visualize the following metrics across cities:
 
 **Economic Indicators:**
 - GDP (Gross Domestic Product)
@@ -71,10 +71,10 @@ Your dashboard must collect and visualize the following metrics across countries
 
 ### Functional Requirements
 
-1. **Multi-Country Comparisons**: Allow users to select and compare multiple countries simultaneously
+1. **Multi-Cities Comparisons**: Allow users to select and compare multiple cities simultaneously
 2. **Time Series Analysis**: Show growth/change over years (minimum 5-year span)
 3. **Search & Filter**: Enable country search and metric-based filtering
-4. **Ranking System**: Sort countries by individual metrics
+4. **Ranking System**: Sort cities by individual metrics
 5. **Interactive Visualizations**: 
    - Bar charts, line graphs, scatter plots
    - Heatmaps for regional comparisons
@@ -82,8 +82,7 @@ Your dashboard must collect and visualize the following metrics across countries
    - Correlation matrices
 
 ### Key Insights to Display
-- Top 10 countries in HDI
-- Countries with fastest GDP growth
+- Top 10 cities in HDI
 - Regions with highest inequality (Gini)
 - Countries with best healthcare systems
 - Environmental leaders and laggards
@@ -161,24 +160,13 @@ Your submission will be evaluated based on:
 
 ---
 
-## 📊 Recommended Data Sources
-
-- [World Bank Open Data](https://data.worldbank.org/)
-- [UN Human Development Reports](http://hdr.undp.org/en/data)
-- [OECD Statistics](https://stats.oecd.org/)
-- [International Monetary Fund](https://www.imf.org/en/Data)
-- [Our World in Data](https://ourworldindata.org/)
-- [Transparency International](https://www.transparency.org/en/cpi)
-
----
-
 ## 🚀 How to Participate
 
 ### Submission Steps:
 
 1. **Fork this Repository**
    ```bash
-   git clone https://github.com/[your-org]/vibe-coding-challenge.git
+   git clone https://github.com/Lets-code-with-us/Letscode-Community-Challenge-1.git
    ```
 
 2. **Create Your Project Folder**
@@ -251,44 +239,6 @@ npm install
 npm start
 ```
 
-## 📊 Data Sources Used
-- [List your data sources]
-- [APIs or datasets utilized]
-
-## 🎯 Features Implemented
-
-### Required Features ✅
-- [x] 30+ National Growth Metrics
-- [x] Multi-country Comparisons
-- [x] Time Series Analysis
-- [x] Search & Filter Functionality
-- [x] Interactive Visualizations
-- [x] Responsive Design
-
-### Bonus Features ✅
-- [x] AI-based Trend Analysis
-- [x] Export Functionality
-- [x] Policy Insights
-
-## 🏗️ Project Structure
-```
-src/
-├── components/
-├── services/
-├── utils/
-├── styles/
-└── assets/
-```
-
-## 🎨 Design Decisions
-Explain your unique UI/UX choices and why they enhance the user experience.
-
-## 🚧 Challenges & Solutions
-Describe technical challenges faced and how you solved them.
-
-## 📈 Future Enhancements
-Ideas for further development if given more time.
-
 ## 📞 Contact
 - Email: [your-email]
 - LinkedIn: [your-profile]
@@ -306,13 +256,10 @@ Ideas for further development if given more time.
 
 ## 🏅 Prizes & Recognition
 
-- **1st Place**: [Prize Details]
-- **2nd Place**: [Prize Details] 
-- **3rd Place**: [Prize Details]
-- **Special Recognition**:
-  - Best UI/UX Design
-  - Most Innovative Feature
-  - Best Technical Implementation
+- **1st Place**: Winner Certificate + Goodies
+- **2nd Place**: Runnerup Certificate + Goodies
+- **3rd Place**: Runnerup Certificate + Goodies
+- **For Everybody**: Participants Certificate
 
 
 
