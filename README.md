@@ -240,17 +240,15 @@ npm start
 ```
 
 ## 📞 Contact
-- Email: [your-email]
-- LinkedIn: [your-profile]
+- Email: letscode@lets-code.co.in
 
 ---
 
 ## 📅 Timeline
 
-- **Challenge Launch**: [Start Date]
-- **Submission Deadline**: [End Date]
-- **Judging Period**: [Judging Dates]
-- **Winner Announcement**: [Announcement Date]
+- **Challenge Launch**: 16 June 2025
+- **Submission Deadline**: 22 June 2025
+- **Winner Announcement**: 25 June 2025
 
 --- 
 
@@ -260,7 +258,6 @@ npm start
 - **2nd Place**: Runnerup Certificate + Goodies
 - **3rd Place**: Runnerup Certificate + Goodies
 - **For Everybody**: Participants Certificate
-
 
 
 ## ❓ FAQ
@@ -281,9 +278,9 @@ A: Use mock data or alternative sources, but ensure data accuracy and mention th
 
 ## 📞 Support
 
-- **Community Discord**: [Link]
+- **Community Discord**: [Link](https://discord.com/invite/XRBheB9QF9)
 - **Challenge Discussion**: [GitHub Discussions Link]
-- **Technical Help**: [Contact Info]
+- **Technical Help**: [Twitter](https://x.com/shubham007913)
 
 ---
 
@@ -295,3 +292,5 @@ Ready to decode development and create insights that could impact how we underst
 
 
 *Good luck to all participants! May the best dashboard win! 🏆*
+
+Check our website for placement resources - [Lets Code](https://www.lets-code.co.in/)
