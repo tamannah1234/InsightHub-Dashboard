@@ -151,15 +151,6 @@ Your submission will be evaluated based on:
 
 ---
 
-## 👥 Target Users
-
-- **Researchers**: Academic and policy researchers analyzing global trends
-- **Policymakers**: Government officials making data-driven decisions
-- **Students**: Learning about global development and economics
-- **General Public**: Citizens interested in understanding world development
-
----
-
 ## 🚀 How to Participate
 
 ### Submission Steps:
