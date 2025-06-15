@@ -14,7 +14,7 @@ Welcome to our internal community coding challenge! Build an interactive dashboa
 Every nation's progress depends not on one factor but on a blend of economic, social, and environmental indicators. Understanding this data holistically can drive better policy-making, awareness, and decision-making.
 
 ### Objective
-Design and develop an interactive data dashboard or application that visualizes and analyzes multiple national growth metrics for various countries. The platform should allow users to explore, compare, and interpret how different countries are performing across a comprehensive set of development indicators.
+Design and develop an interactive data dashboard or application that visualizes and analyzes multiple national growth metrics for various cities. The platform should allow users to explore, compare, and interpret how different cities are performing across a comprehensive set of development indicators.
 
 ---
 
@@ -73,7 +73,7 @@ Your dashboard must collect and visualize the following metrics across cities:
 
 1. **Multi-Cities Comparisons**: Allow users to select and compare multiple cities simultaneously
 2. **Time Series Analysis**: Show growth/change over years (minimum 5-year span)
-3. **Search & Filter**: Enable country search and metric-based filtering
+3. **Search & Filter**: Enable city search and metric-based filtering
 4. **Ranking System**: Sort cities by individual metrics
 5. **Interactive Visualizations**: 
    - Bar charts, line graphs, scatter plots
@@ -84,7 +84,7 @@ Your dashboard must collect and visualize the following metrics across cities:
 ### Key Insights to Display
 - Top 10 cities in HDI
 - Regions with highest inequality (Gini)
-- Countries with best healthcare systems
+- Cities with best healthcare systems
 - Environmental leaders and laggards
 - Custom insight generation based on user selections
 
@@ -99,7 +99,7 @@ Your dashboard must collect and visualize the following metrics across cities:
 
 1. **AI-Powered Analytics**:
    - Trend prediction for selected metrics
-   - Anomaly detection in country performance
+   - Anomaly detection in city performance
    - Correlation analysis between different indicators
 
 2. **Export Capabilities**:
@@ -108,12 +108,12 @@ Your dashboard must collect and visualize the following metrics across cities:
    - Share visualizations as images
 
 3. **Policy Insights**:
-   - Display policy suggestions for underperforming countries
+   - Display policy suggestions for underperforming cities
    - Show success stories and best practices
-   - Highlight countries with similar profiles
+   - Highlight cities with similar profiles
 
 4. **Advanced Interactions**:
-   - Country clustering based on performance
+   - City clustering based on performance
    - Scenario analysis ("What if" modeling)
    - Goal tracking (e.g., SDG progress)
 
@@ -198,7 +198,7 @@ Your submission will be evaluated based on:
 
 ## 📸 Screenshots
 ![Dashboard Overview](./demo-images/dashboard-overview.png)
-![Country Comparison](./demo-images/country-comparison.png)
+![Cities Comparison](./demo-images/cities-comparison.png)
 ![Mobile View](./demo-images/mobile-view.png)
 
 ## 🛠️ Tech Stack
