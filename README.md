@@ -285,4 +285,8 @@ Ready to decode development and create insights that could impact how we underst
 
 *Good luck to all participants! May the best dashboard win! 🏆*
 
+
+## Note: Using AI tools like Cusor, Windsurf, and Bolt is mandatory.
+
+
 Check our website for placement resources - [Lets Code](https://www.lets-code.co.in/)
