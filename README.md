@@ -183,6 +183,7 @@ Your submission will be evaluated based on:
 5. **Submit Your Entry**
    - Create a pull request with your complete solution
    - Ensure all files are included and demo link works
+   - And then fill this form(compulsory) - [Submission form](https://forms.gle/VV7Gu5JUKa1TmQd77)
 
 ---
 
