@@ -1,4 +1,4 @@
-# 🌍 Vibe Coding Challenge: Decoding Development
+# 🌍 Let's Code Development Challenge: Decoding Development 🚨
 ## A Data-Driven Dashboard for National Growth Metrics
 
 Welcome to our internal community coding challenge! Build an interactive dashboard that visualizes and analyzes national growth metrics across cities worldwide.
