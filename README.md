@@ -155,25 +155,18 @@ Your submission will be evaluated based on:
 
 ### Submission Steps:
 
-1. **Fork this Repository**
+1. **Star this repository**
    ```bash
    git clone https://github.com/Lets-code-with-us/Letscode-Community-Challenge-1.git
    ```
 
-2. **Create Your Project Folder**
-   ```
-   submissions/
-   └── [your-name]/
-       ├── src/
-       ├── README.md
-       ├── demo-images/
-       └── [your project files]
-   ```
-
-3. **Build Your Solution**
+2. **Build Your Solution**
    - Use any tech stack you prefer (React, Vue, Angular, Vanilla JS, Python, etc.)
    - Implement all required features
    - Focus on unique UI design and user experience
+  
+3. **Create your github Repo **
+   - Upload your source in the github repo and make it live.
 
 4. **Document Your Work**
    - Create a comprehensive README (see template below)
@@ -181,8 +174,7 @@ Your submission will be evaluated based on:
    - Highlight your unique features
 
 5. **Submit Your Entry**
-   - Create a pull request with your complete solution
-   - Ensure all files are included and demo link works
+   - Ensure all files are included in the github repo and demo link works
    - And then fill this form(compulsory) - [Submission form](https://forms.gle/VV7Gu5JUKa1TmQd77)
      
 6. **Join the Discussion group for any doutbs**
