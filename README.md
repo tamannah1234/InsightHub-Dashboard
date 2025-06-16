@@ -165,7 +165,7 @@ Your submission will be evaluated based on:
    - Implement all required features
    - Focus on unique UI design and user experience
   
-3. **Create your github Repo **
+3. **Create your github Repo**
    - Upload your source in the github repo and make it live.
 
 4. **Document Your Work**
