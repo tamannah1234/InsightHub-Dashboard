@@ -184,6 +184,9 @@ Your submission will be evaluated based on:
    - Create a pull request with your complete solution
    - Ensure all files are included and demo link works
    - And then fill this form(compulsory) - [Submission form](https://forms.gle/VV7Gu5JUKa1TmQd77)
+     
+6. **Join the Discussion group for any doutbs**
+   - [WhatsApp group link](https://chat.whatsapp.com/Lfp0vamaQe8I1YkXQ2qZQH)
 
 ---
 
@@ -272,6 +275,7 @@ A: Use mock data or alternative sources, but ensure data accuracy and mention th
 
 - **Community Discord**: [Link](https://discord.com/invite/XRBheB9QF9)
 - **Challenge Discussion**: [GitHub Discussions Link](https://github.com/Lets-code-with-us/Letscode-Community-Challenge-1/discussions/2)
+- **WhatsApp group**: [Link](https://chat.whatsapp.com/Lfp0vamaQe8I1YkXQ2qZQH)
 - **Technical Help**: [Twitter](https://x.com/shubham007913)
 
 ---
