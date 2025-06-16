@@ -187,6 +187,7 @@ Your submission will be evaluated based on:
      
 6. **Join the Discussion group for any doutbs**
    - [WhatsApp group link](https://chat.whatsapp.com/Lfp0vamaQe8I1YkXQ2qZQH)
+   - [Github discussion](https://github.com/Lets-code-with-us/Letscode-Community-Challenge-1/discussions/2)
 
 ---
 
