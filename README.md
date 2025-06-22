@@ -1,3 +1,20 @@
+* Visualizes 30+ national growth metrics
+compares data multiple Indian cities, Supports filtering, ranking, search, time-series views
+## Features ##
+1. comparison . 
+2. filter Part, 
+3. Rank show,
+4. Searching, 
+5. based on Time series Ranking show
+
+## Data collect ##
+GDP  Statewise  CITYWISE (2022-2023 AVAILABLE)
+
+
+
+
+
+
 # 🌍 Let's Code Development Challenge: Decoding Development 🚨
 ## A Data-Driven Dashboard for National Growth Metrics
 
