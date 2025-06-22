@@ -5,7 +5,7 @@ async function loadFragment(holderId, url){
 }
 
 /* ------------ config ------------ */
-const DATA_PATH = '/api/getData';    // Public → ../Data
+const DATA_PATH = '/api/getData';   
 let   DATA     = [];                      // parsed JSON
 const YEARS    = ['2023','2024','2025'];
 

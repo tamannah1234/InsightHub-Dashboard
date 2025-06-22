@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "outputDirectory": "public",
+  "public": "Public",
   "functions": {
     "api/getData.js": {
       "includeFiles": "Data/data.json"
