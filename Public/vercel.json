@@ -1,9 +1,9 @@
 {
-  "public": "public",
+  "version": 2,
+  "outputDirectory": "public",
   "functions": {
     "api/getData.js": {
       "includeFiles": "Data/data.json"
     }
   }
 }
-
