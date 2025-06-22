@@ -1,0 +1,2293 @@
+[
+  {
+    "state": "Maharashtra",
+    "capital": {
+      "city": "Mumbai",
+      "lat": 19.0760,
+      "lon": 72.8777,
+      "data": {
+        "2023": {
+          "values": {
+            "gdpUsdBn": 368,
+            "hdi": 0.79,
+            "aqi": 148,
+            "literacyRate": 91.4,
+            "hospitalBedsPer1000": 1.3,
+            "unemploymentRate": 4.8,
+            "populationMillions": 126.3,
+            "perCapitaIncomeUsd": 2910,
+            "crimeRatePer100k": 212.4
+          },
+          "growth": {
+            "gdpUsdBn": 8.2,
+            "hdi": 1.3,
+            "aqi": -7.5,
+            "literacyRate": 0.2,
+            "hospitalBedsPer1000": 0.0,
+            "unemploymentRate": -0.3,
+            "populationMillions": 1.1,
+            "perCapitaIncomeUsd": 6.7,
+            "crimeRatePer100k": -2.1
+          }
+        },
+        "2024": {
+          "values": {
+            "gdpUsdBn": 398,
+            "hdi": 0.80,
+            "aqi": 142,
+            "literacyRate": 91.6,
+            "hospitalBedsPer1000": 1.4,
+            "unemploymentRate": 4.6,
+            "populationMillions": 127.7,
+            "perCapitaIncomeUsd": 3105,
+            "crimeRatePer100k": 208.1
+          },
+          "growth": {
+            "gdpUsdBn": 7.8,
+            "hdi": 1.3,
+            "aqi": -4.1,
+            "literacyRate": 0.2,
+            "hospitalBedsPer1000": 7.7,
+            "unemploymentRate": -0.2,
+            "populationMillions": 1.1,
+            "perCapitaIncomeUsd": 6.7,
+            "crimeRatePer100k": -2.0
+          }
+        },
+        "2025": {
+          "values": {
+            "gdpUsdBn": 429,
+            "hdi": 0.81,
+            "aqi": 136,
+            "literacyRate": 91.8,
+            "hospitalBedsPer1000": 1.5,
+            "unemploymentRate": 4.5,
+            "populationMillions": 129.1,
+            "perCapitaIncomeUsd": 3312,
+            "crimeRatePer100k": 203.9
+          },
+          "growth": {
+            "gdpUsdBn": 7.8,
+            "hdi": 1.2,
+            "aqi": -4.2,
+            "literacyRate": 0.2,
+            "hospitalBedsPer1000": 7.1,
+            "unemploymentRate": -0.1,
+            "populationMillions": 1.1,
+            "perCapitaIncomeUsd": 6.7,
+            "crimeRatePer100k": -2.0
+          }
+        }
+      }
+    },
+    "stateData": {
+      "2023": {
+        "economic": {
+          "gdpUsdBn": 470,
+          "gdpGrowthRate": 7.5,
+          "fdiInflowsUsdBn": 12.3,
+          "industrialOutputGrowth": 6.2
+        },
+        "social": {
+          "hdi": 0.745,
+          "genderGapIndex": 0.68,
+          "povertyRate": 12.4,
+          "schoolEnrollmentRate": 89.2
+        },
+        "health": {
+          "lifeExpectancy": 70.2,
+          "infantMortalityPer1000": 24.1,
+          "physiciansPer1000": 0.7,
+          "immunizationRate": 82.3
+        },
+        "environment": {
+          "forestCoverPercentage": 16.5,
+          "renewableEnergyPercentage": 12.8,
+          "wasteRecyclingRate": 28.4,
+          "waterQualityIndex": 65.2
+        },
+        "governance": {
+          "efficiencyIndex": 6.8,
+          "corruptionIndex": 4.2,
+          "publicSatisfaction": 68.3,
+          "lawAndOrderIndex": 7.1
+        },
+        "equality": {
+          "genderPayGap": 18.2,
+          "incomeGiniCoefficient": 0.42,
+          "scStLiteracyGap": 8.7,
+          "urbanRuralIncomeRatio": 2.3
+        }
+      },
+      "2024": {
+        "economic": {
+          "gdpUsdBn": 505,
+          "gdpGrowthRate": 7.4,
+          "fdiInflowsUsdBn": 13.1,
+          "industrialOutputGrowth": 6.5
+        },
+        "social": {
+          "hdi": 0.755,
+          "genderGapIndex": 0.69,
+          "povertyRate": 11.8,
+          "schoolEnrollmentRate": 89.7
+        },
+        "health": {
+          "lifeExpectancy": 70.6,
+          "infantMortalityPer1000": 23.4,
+          "physiciansPer1000": 0.8,
+          "immunizationRate": 83.1
+        },
+        "environment": {
+          "forestCoverPercentage": 16.8,
+          "renewableEnergyPercentage": 14.2,
+          "wasteRecyclingRate": 30.1,
+          "waterQualityIndex": 66.5
+        },
+        "governance": {
+          "efficiencyIndex": 6.9,
+          "corruptionIndex": 4.4,
+          "publicSatisfaction": 69.2,
+          "lawAndOrderIndex": 7.2
+        },
+        "equality": {
+          "genderPayGap": 17.8,
+          "incomeGiniCoefficient": 0.41,
+          "scStLiteracyGap": 8.3,
+          "urbanRuralIncomeRatio": 2.2
+        }
+      },
+      "2025": {
+        "economic": {
+          "gdpUsdBn": 542,
+          "gdpGrowthRate": 7.3,
+          "fdiInflowsUsdBn": 14.0,
+          "industrialOutputGrowth": 6.7
+        },
+        "social": {
+          "hdi": 0.765,
+          "genderGapIndex": 0.70,
+          "povertyRate": 11.2,
+          "schoolEnrollmentRate": 90.2
+        },
+        "health": {
+          "lifeExpectancy": 71.0,
+          "infantMortalityPer1000": 22.7,
+          "physiciansPer1000": 0.9,
+          "immunizationRate": 83.9
+        },
+        "environment": {
+          "forestCoverPercentage": 17.1,
+          "renewableEnergyPercentage": 15.6,
+          "wasteRecyclingRate": 31.8,
+          "waterQualityIndex": 67.8
+        },
+        "governance": {
+          "efficiencyIndex": 7.0,
+          "corruptionIndex": 4.6,
+          "publicSatisfaction": 70.1,
+          "lawAndOrderIndex": 7.3
+        },
+        "equality": {
+          "genderPayGap": 17.4,
+          "incomeGiniCoefficient": 0.40,
+          "scStLiteracyGap": 7.9,
+          "urbanRuralIncomeRatio": 2.1
+        }
+      }
+    }
+  },
+  {
+  "state": "Tamil Nadu",
+  "capital": {
+    "city": "Chennai",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "data": {
+      "2023": {
+        "values": {
+          "gdpUsdBn": 368,
+          "hdi": 0.78,
+          "aqi": 145,
+          "literacyRate": 93.0,
+          "hospitalBedsPer1000": 1.5,
+          "unemploymentRate": 5.0,
+          "populationMillions": 80.0,
+          "perCapitaIncomeUsd": 4600,
+          "crimeRatePer100k": 180.0
+        },
+        "growth": {
+          "gdpUsdBn": 9.8,
+          "hdi": 1.2,
+          "aqi": -5.0,
+          "literacyRate": 0.3,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.2,
+          "populationMillions": 0.5,
+          "perCapitaIncomeUsd": 8.0,
+          "crimeRatePer100k": -1.5
+        }
+      },
+      "2024": {
+        "values": {
+          "gdpUsdBn": 398,
+          "hdi": 0.79,
+          "aqi": 140,
+          "literacyRate": 93.5,
+          "hospitalBedsPer1000": 1.6,
+          "unemploymentRate": 4.8,
+          "populationMillions": 81.0,
+          "perCapitaIncomeUsd": 4800,
+          "crimeRatePer100k": 178.0
+        },
+        "growth": {
+          "gdpUsdBn": 8.1,
+          "hdi": 1.3,
+          "aqi": -3.5,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.2,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 8.0,
+          "crimeRatePer100k": -1.2
+        }
+      },
+      "2025": {
+        "values": {
+          "gdpUsdBn": 429,
+          "hdi": 0.80,
+          "aqi": 135,
+          "literacyRate": 94.0,
+          "hospitalBedsPer1000": 1.7,
+          "unemploymentRate": 4.5,
+          "populationMillions": 82.0,
+          "perCapitaIncomeUsd": 5000,
+          "crimeRatePer100k": 175.0
+        },
+        "growth": {
+          "gdpUsdBn": 7.8,
+          "hdi": 1.2,
+          "aqi": -3.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.3,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 8.0,
+          "crimeRatePer100k": -1.0
+        }
+      }
+    }
+  },
+  "stateData": {
+    "2023": {
+      "economic": {
+        "gdpUsdBn": 470,
+        "gdpGrowthRate": 8.0,
+        "fdiInflowsUsdBn": 10.5,
+        "industrialOutputGrowth": 7.0
+      },
+      "social": {
+        "hdi": 0.745,
+        "genderGapIndex": 0.70,
+        "povertyRate": 10.5,
+        "schoolEnrollmentRate": 92.0
+      },
+      "health": {
+        "lifeExpectancy": 72.0,
+        "infantMortalityPer1000": 20.0,
+        "physiciansPer1000": 1.0,
+        "immunizationRate": 85.0
+      },
+      "environment": {
+        "forestCoverPercentage": 20.0,
+        "renewableEnergyPercentage": 15.0,
+        "wasteRecyclingRate": 30.0,
+        "waterQualityIndex": 70.0
+      },
+      "governance": {
+        "efficiencyIndex": 7.0,
+        "corruptionIndex": 4.5,
+        "publicSatisfaction": 70.0,
+        "lawAndOrderIndex": 7.5
+      },
+      "equality": {
+        "genderPayGap": 16.0,
+        "incomeGiniCoefficient": 0.39,
+        "scStLiteracyGap": 6.0,
+        "urbanRuralIncomeRatio": 1.9
+      }
+    },
+    "2024": {
+      "economic": {
+        "gdpUsdBn": 505,
+        "gdpGrowthRate": 7.8,
+        "fdiInflowsUsdBn": 11.0,
+        "industrialOutputGrowth": 7.5
+      },
+      "social": {
+        "hdi": 0.755,
+        "genderGapIndex": 0.71,
+        "povertyRate": 10.0,
+        "schoolEnrollmentRate": 92.5
+      },
+      "health": {
+        "lifeExpectancy": 72.5,
+        "infantMortalityPer1000": 19.5,
+        "physiciansPer1000": 1.1,
+        "immunizationRate": 86.0
+      },
+      "environment": {
+        "forestCoverPercentage": 20.5,
+        "renewableEnergyPercentage": 16.0,
+        "wasteRecyclingRate": 32.0,
+        "waterQualityIndex": 71.0
+      },
+      "governance": {
+        "efficiencyIndex": 7.1,
+        "corruptionIndex": 4.4,
+        "publicSatisfaction": 71.0,
+        "lawAndOrderIndex": 7.6
+      },
+      "equality": {
+        "genderPayGap": 15.5,
+        "incomeGiniCoefficient": 0.38,
+        "scStLiteracyGap": 5.8,
+        "urbanRuralIncomeRatio": 1.8
+      }
+    },
+    "2025": {
+      "economic": {
+        "gdpUsdBn": 542,
+        "gdpGrowthRate": 7.5,
+        "fdiInflowsUsdBn": 12.0,
+        "industrialOutputGrowth": 8.0
+      },
+      "social": {
+        "hdi": 0.765,
+        "genderGapIndex": 0.72,
+        "povertyRate": 9.5,
+        "schoolEnrollmentRate": 93.0
+      },
+      "health": {
+        "lifeExpectancy": 73.0,
+        "infantMortalityPer1000": 19.0,
+        "physiciansPer1000": 1.2,
+        "immunizationRate": 87.0
+      },
+      "environment": {
+        "forestCoverPercentage": 21.0,
+        "renewableEnergyPercentage": 17.0,
+        "wasteRecyclingRate": 34.0,
+        "waterQualityIndex": 72.0
+      },
+      "governance": {
+        "efficiencyIndex": 7.2,
+        "corruptionIndex": 4.3,
+        "publicSatisfaction": 72.0,
+        "lawAndOrderIndex": 7.7
+      },
+      "equality": {
+        "genderPayGap": 15.0,
+        "incomeGiniCoefficient": 0.37,
+        "scStLiteracyGap": 5.5,
+        "urbanRuralIncomeRatio": 1.7
+      }
+    }
+  }
+},
+{
+  "state": "Karnataka",
+  "capital": {
+    "city": "Bengaluru",
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "data": {
+      "2023": {
+        "values": {
+          "gdpUsdBn": 320,
+          "hdi": 0.77,
+          "aqi": 138,
+          "literacyRate": 88.5,
+          "hospitalBedsPer1000": 1.4,
+          "unemploymentRate": 4.5,
+          "populationMillions": 68.0,
+          "perCapitaIncomeUsd": 3800,
+          "crimeRatePer100k": 195.0
+        },
+        "growth": {
+          "gdpUsdBn": 9.5,
+          "hdi": 1.1,
+          "aqi": -6.2,
+          "literacyRate": 0.4,
+          "hospitalBedsPer1000": 0.2,
+          "unemploymentRate": -0.4,
+          "populationMillions": 1.2,
+          "perCapitaIncomeUsd": 7.5,
+          "crimeRatePer100k": -1.8
+        }
+      },
+      "2024": {
+        "values": {
+          "gdpUsdBn": 345,
+          "hdi": 0.78,
+          "aqi": 132,
+          "literacyRate": 89.0,
+          "hospitalBedsPer1000": 1.5,
+          "unemploymentRate": 4.2,
+          "populationMillions": 69.0,
+          "perCapitaIncomeUsd": 4050,
+          "crimeRatePer100k": 191.0
+        },
+        "growth": {
+          "gdpUsdBn": 8.8,
+          "hdi": 1.2,
+          "aqi": -4.3,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.3,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 7.0,
+          "crimeRatePer100k": -1.5
+        }
+      },
+      "2025": {
+        "values": {
+          "gdpUsdBn": 372,
+          "hdi": 0.79,
+          "aqi": 126,
+          "literacyRate": 89.5,
+          "hospitalBedsPer1000": 1.6,
+          "unemploymentRate": 4.0,
+          "populationMillions": 70.0,
+          "perCapitaIncomeUsd": 4320,
+          "crimeRatePer100k": 187.0
+        },
+        "growth": {
+          "gdpUsdBn": 8.5,
+          "hdi": 1.1,
+          "aqi": -4.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.2,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 7.0,
+          "crimeRatePer100k": -1.5
+        }
+      }
+    }
+  },
+  "stateData": {
+    "2023": {
+      "economic": {
+        "gdpUsdBn": 410,
+        "gdpGrowthRate": 8.2,
+        "fdiInflowsUsdBn": 11.8,
+        "industrialOutputGrowth": 7.5,
+        "itExportsUsdBn": 82.0
+      },
+      "social": {
+        "hdi": 0.735,
+        "genderGapIndex": 0.69,
+        "povertyRate": 11.2,
+        "schoolEnrollmentRate": 90.5
+      },
+      "health": {
+        "lifeExpectancy": 71.5,
+        "infantMortalityPer1000": 21.5,
+        "physiciansPer1000": 0.9,
+        "immunizationRate": 84.0
+      },
+      "environment": {
+        "forestCoverPercentage": 18.5,
+        "renewableEnergyPercentage": 14.5,
+        "wasteRecyclingRate": 32.0,
+        "waterQualityIndex": 68.0
+      },
+      "governance": {
+        "efficiencyIndex": 7.1,
+        "corruptionIndex": 4.0,
+        "publicSatisfaction": 71.5,
+        "lawAndOrderIndex": 7.4
+      },
+      "equality": {
+        "genderPayGap": 17.0,
+        "incomeGiniCoefficient": 0.40,
+        "scStLiteracyGap": 7.2,
+        "urbanRuralIncomeRatio": 2.0
+      }
+    },
+    "2024": {
+      "economic": {
+        "gdpUsdBn": 440,
+        "gdpGrowthRate": 8.0,
+        "fdiInflowsUsdBn": 12.5,
+        "industrialOutputGrowth": 7.8,
+        "itExportsUsdBn": 88.0
+      },
+      "social": {
+        "hdi": 0.745,
+        "genderGapIndex": 0.70,
+        "povertyRate": 10.7,
+        "schoolEnrollmentRate": 91.0
+      },
+      "health": {
+        "lifeExpectancy": 72.0,
+        "infantMortalityPer1000": 20.8,
+        "physiciansPer1000": 1.0,
+        "immunizationRate": 85.0
+      },
+      "environment": {
+        "forestCoverPercentage": 19.0,
+        "renewableEnergyPercentage": 15.5,
+        "wasteRecyclingRate": 34.0,
+        "waterQualityIndex": 69.0
+      },
+      "governance": {
+        "efficiencyIndex": 7.2,
+        "corruptionIndex": 4.1,
+        "publicSatisfaction": 72.0,
+        "lawAndOrderIndex": 7.5
+      },
+      "equality": {
+        "genderPayGap": 16.5,
+        "incomeGiniCoefficient": 0.39,
+        "scStLiteracyGap": 6.9,
+        "urbanRuralIncomeRatio": 1.9
+      }
+    },
+    "2025": {
+      "economic": {
+        "gdpUsdBn": 472,
+        "gdpGrowthRate": 7.8,
+        "fdiInflowsUsdBn": 13.5,
+        "industrialOutputGrowth": 8.0,
+        "itExportsUsdBn": 94.0
+      },
+      "social": {
+        "hdi": 0.755,
+        "genderGapIndex": 0.71,
+        "povertyRate": 10.2,
+        "schoolEnrollmentRate": 91.5
+      },
+      "health": {
+        "lifeExpectancy": 72.5,
+        "infantMortalityPer1000": 20.1,
+        "physiciansPer1000": 1.1,
+        "immunizationRate": 86.0
+      },
+      "environment": {
+        "forestCoverPercentage": 19.5,
+        "renewableEnergyPercentage": 16.5,
+        "wasteRecyclingRate": 36.0,
+        "waterQualityIndex": 70.0
+      },
+      "governance": {
+        "efficiencyIndex": 7.3,
+        "corruptionIndex": 4.2,
+        "publicSatisfaction": 72.5,
+        "lawAndOrderIndex": 7.6
+      },
+      "equality": {
+        "genderPayGap": 16.0,
+        "incomeGiniCoefficient": 0.38,
+        "scStLiteracyGap": 6.6,
+        "urbanRuralIncomeRatio": 1.8
+      }
+    }
+  }
+},
+{
+  "state": "Gujarat",
+  "capital": {
+    "city": "Gandhinagar",
+    "lat": 23.2156,
+    "lon": 72.6369,
+    "data": {
+      "2023": {
+        "values": {
+          "gdpUsdBn": 310,
+          "hdi": 0.74,
+          "aqi": 140,
+          "literacyRate": 87.0,
+          "hospitalBedsPer1000": 1.2,
+          "unemploymentRate": 5.0,
+          "populationMillions": 66.0,
+          "perCapitaIncomeUsd": 3700,
+          "crimeRatePer100k": 200.0
+        },
+        "growth": {
+          "gdpUsdBn": 8.0,
+          "hdi": 0.5,
+          "aqi": -5.0,
+          "literacyRate": 0.3,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.2,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 6.0,
+          "crimeRatePer100k": -2.0
+        }
+      },
+      "2024": {
+        "values": {
+          "gdpUsdBn": 335,
+          "hdi": 0.75,
+          "aqi": 135,
+          "literacyRate": 88.0,
+          "hospitalBedsPer1000": 1.3,
+          "unemploymentRate": 4.8,
+          "populationMillions": 67.0,
+          "perCapitaIncomeUsd": 3900,
+          "crimeRatePer100k": 195.0
+        },
+        "growth": {
+          "gdpUsdBn": 8.1,
+          "hdi": 0.6,
+          "aqi": -4.0,
+          "literacyRate": 0.4,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.2,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 5.5,
+          "crimeRatePer100k": -1.5
+        }
+      },
+      "2025": {
+        "values": {
+          "gdpUsdBn": 360,
+          "hdi": 0.76,
+          "aqi": 130,
+          "literacyRate": 89.0,
+          "hospitalBedsPer1000": 1.4,
+          "unemploymentRate": 4.5,
+          "populationMillions": 68.0,
+          "perCapitaIncomeUsd": 4100,
+          "crimeRatePer100k": 190.0
+        },
+        "growth": {
+          "gdpUsdBn": 7.5,
+          "hdi": 0.5,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.3,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 5.0,
+          "crimeRatePer100k": -1.0
+        }
+      }
+    }
+  },
+  "stateData": {
+    "2023": {
+      "economic": {
+        "gdpUsdBn": 410,
+        "gdpGrowthRate": 8.5,
+        "fdiInflowsUsdBn": 10.0,
+        "industrialOutputGrowth": 7.0,
+        "itExportsUsdBn": 75.0
+      },
+      "social": {
+        "hdi": 0.740,
+        "genderGapIndex": 0.68,
+        "povertyRate": 12.0,
+        "schoolEnrollmentRate": 89.0
+      },
+      "health": {
+        "lifeExpectancy": 70.0,
+        "infantMortalityPer1000": 22.0,
+        "physiciansPer1000": 0.8,
+        "immunizationRate": 82.0
+      },
+      "environment": {
+        "forestCoverPercentage": 11.0,
+        "renewableEnergyPercentage": 12.0,
+        "wasteRecyclingRate": 30.0,
+        "waterQualityIndex": 65.0
+      },
+      "governance": {
+        "efficiencyIndex": 6.8,
+        "corruptionIndex": 4.5,
+        "publicSatisfaction": 70.0,
+        "lawAndOrderIndex": 7.0
+      },
+      "equality": {
+        "genderPayGap": 18.0,
+        "incomeGiniCoefficient": 0.42,
+        "scStLiteracyGap": 8.0,
+        "urbanRuralIncomeRatio": 2.1
+      }
+    },
+    "2024": {
+      "economic": {
+        "gdpUsdBn": 440,
+        "gdpGrowthRate": 8.0,
+        "fdiInflowsUsdBn": 11.0,
+        "industrialOutputGrowth": 7.5,
+        "itExportsUsdBn": 80.0
+      },
+      "social": {
+        "hdi": 0.750,
+        "genderGapIndex": 0.69,
+        "povertyRate": 11.5,
+        "schoolEnrollmentRate": 90.0
+      },
+      "health": {
+        "lifeExpectancy": 70.5,
+        "infantMortalityPer1000": 21.5,
+        "physiciansPer1000": 0.9,
+        "immunizationRate": 83.0
+      },
+      "environment": {
+        "forestCoverPercentage": 11.5,
+        "renewableEnergyPercentage": 13.0,
+        "wasteRecyclingRate": 32.0,
+        "waterQualityIndex": 66.0
+      },
+      "governance": {
+        "efficiencyIndex": 6.9,
+        "corruptionIndex": 4.4,
+        "publicSatisfaction": 71.0,
+        "lawAndOrderIndex": 7.1
+      },
+      "equality": {
+        "genderPayGap": 17.5,
+        "incomeGiniCoefficient": 0.41,
+        "scStLiteracyGap": 7.8,
+        "urbanRuralIncomeRatio": 2.0
+      }
+    },
+    "2025": {
+      "economic": {
+        "gdpUsdBn": 470,
+        "gdpGrowthRate": 7.5,
+        "fdiInflowsUsdBn": 12.0,
+        "industrialOutputGrowth": 8.0,
+        "itExportsUsdBn": 85.0
+      },
+      "social": {
+        "hdi": 0.760,
+        "genderGapIndex": 0.70,
+        "povertyRate": 11.0,
+        "schoolEnrollmentRate": 90.5
+      },
+      "health": {
+        "lifeExpectancy": 71.0,
+        "infantMortalityPer1000": 21.0,
+        "physiciansPer1000": 1.0,
+        "immunizationRate": 84.0
+      },
+      "environment": {
+        "forestCoverPercentage": 12.0,
+        "renewableEnergyPercentage": 14.0,
+        "wasteRecyclingRate": 34.0,
+        "waterQualityIndex": 67.0
+      },
+      "governance": {
+        "efficiencyIndex": 7.0,
+        "corruptionIndex": 4.3,
+        "publicSatisfaction": 72.0,
+        "lawAndOrderIndex": 7.2
+      },
+      "equality": {
+        "genderPayGap": 17.0,
+        "incomeGiniCoefficient": 0.40,
+        "scStLiteracyGap": 7.5,
+        "urbanRuralIncomeRatio": 1.9
+      }
+    }
+  }
+},
+{
+  "state": "Uttar Pradesh",
+  "capital": {
+    "city": "Lucknow",
+    "lat": 26.8467,
+    "lon": 80.9462,
+    "data": {
+      "2023": {
+        "values": {
+          "gdpUsdBn": 250,
+          "hdi": 0.62,
+          "aqi": 150,
+          "literacyRate": 73.0,
+          "hospitalBedsPer1000": 0.7,
+          "unemploymentRate": 5.5,
+          "populationMillions": 240.0,
+          "perCapitaIncomeUsd": 1040,
+          "crimeRatePer100k": 220.0
+        },
+        "growth": {
+          "gdpUsdBn": 7.0,
+          "hdi": 0.3,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.2,
+          "populationMillions": 2.0,
+          "perCapitaIncomeUsd": 5.0,
+          "crimeRatePer100k": -3.0
+        }
+      },
+      "2024": {
+        "values": {
+          "gdpUsdBn": 270,
+          "hdi": 0.64,
+          "aqi": 145,
+          "literacyRate": 74.5,
+          "hospitalBedsPer1000": 0.8,
+          "unemploymentRate": 5.2,
+          "populationMillions": 242.0,
+          "perCapitaIncomeUsd": 1100,
+          "crimeRatePer100k": 215.0
+        },
+        "growth": {
+          "gdpUsdBn": 8.0,
+          "hdi": 0.4,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.3,
+          "populationMillions": 2.0,
+          "perCapitaIncomeUsd": 6.0,
+          "crimeRatePer100k": -2.5
+        }
+      },
+      "2025": {
+        "values": {
+          "gdpUsdBn": 290,
+          "hdi": 0.66,
+          "aqi": 140,
+          "literacyRate": 76.0,
+          "hospitalBedsPer1000": 0.9,
+          "unemploymentRate": 5.0,
+          "populationMillions": 244.0,
+          "perCapitaIncomeUsd": 1150,
+          "crimeRatePer100k": 210.0
+        },
+        "growth": {
+          "gdpUsdBn": 8.5,
+          "hdi": 0.5,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.2,
+          "populationMillions": 2.0,
+          "perCapitaIncomeUsd": 5.0,
+          "crimeRatePer100k": -2.0
+        }
+      }
+    }
+  },
+  "stateData": {
+    "2023": {
+      "economic": {
+        "gdpUsdBn": 250,
+        "gdpGrowthRate": 7.5,
+        "fdiInflowsUsdBn": 5.0,
+        "industrialOutputGrowth": 6.0,
+        "itExportsUsdBn": 10.0
+      },
+      "social": {
+        "hdi": 0.620,
+        "genderGapIndex": 0.65,
+        "povertyRate": 29.0,
+        "schoolEnrollmentRate": 85.0
+      },
+      "health": {
+        "lifeExpectancy": 67.0,
+        "infantMortalityPer1000": 40.0,
+        "physiciansPer1000": 0.5,
+        "immunizationRate": 75.0
+      },
+      "environment": {
+        "forestCoverPercentage": 9.0,
+        "renewableEnergyPercentage": 10.0,
+        "wasteRecyclingRate": 25.0,
+        "waterQualityIndex": 60.0
+      },
+      "governance": {
+        "efficiencyIndex": 5.5,
+        "corruptionIndex": 3.5,
+        "publicSatisfaction": 65.0,
+        "lawAndOrderIndex": 6.0
+      },
+      "equality": {
+        "genderPayGap": 20.0,
+        "incomeGiniCoefficient": 0.45,
+        "scStLiteracyGap": 10.0,
+        "urbanRuralIncomeRatio": 2.5
+      }
+    },
+    "2024": {
+      "economic": {
+        "gdpUsdBn": 270,
+        "gdpGrowthRate": 7.8,
+        "fdiInflowsUsdBn": 5.5,
+        "industrialOutputGrowth": 6.5,
+        "itExportsUsdBn": 12.0
+      },
+      "social": {
+        "hdi": 0.640,
+        "genderGapIndex": 0.66,
+        "povertyRate": 28.0,
+        "schoolEnrollmentRate": 86.0
+      },
+      "health": {
+        "lifeExpectancy": 67.5,
+        "infantMortalityPer1000": 38.0,
+        "physiciansPer1000": 0.6,
+        "immunizationRate": 76.0
+      },
+      "environment": {
+        "forestCoverPercentage": 9.5,
+        "renewableEnergyPercentage": 11.0,
+        "wasteRecyclingRate": 27.0,
+        "waterQualityIndex": 61.0
+      },
+      "governance": {
+        "efficiencyIndex": 5.7,
+        "corruptionIndex": 3.4,
+        "publicSatisfaction": 66.0,
+        "lawAndOrderIndex": 6.2
+      },
+      "equality": {
+        "genderPayGap": 19.5,
+        "incomeGiniCoefficient": 0.44,
+        "scStLiteracyGap": 9.5,
+        "urbanRuralIncomeRatio": 2.4
+      }
+    },
+    "2025": {
+      "economic": {
+        "gdpUsdBn": 290,
+        "gdpGrowthRate": 8.0,
+        "fdiInflowsUsdBn": 6.0,
+        "industrialOutputGrowth": 7.0,
+        "itExportsUsdBn": 15.0
+      },
+      "social": {
+        "hdi": 0.660,
+        "genderGapIndex": 0.67,
+        "povertyRate": 27.0,
+        "schoolEnrollmentRate": 87.0
+      },
+      "health": {
+        "lifeExpectancy": 68.0,
+        "infantMortalityPer1000": 36.0,
+        "physiciansPer1000": 0.7,
+        "immunizationRate": 78.0
+      },
+      "environment": {
+        "forestCoverPercentage": 10.0,
+        "renewableEnergyPercentage": 12.0,
+        "wasteRecyclingRate": 30.0,
+        "waterQualityIndex": 62.0
+      },
+      "governance": {
+        "efficiencyIndex": 5.9,
+        "corruptionIndex": 3.3,
+        "publicSatisfaction": 67.0,
+        "lawAndOrderIndex": 6.5
+      },
+      "equality": {
+        "genderPayGap": 19.0,
+        "incomeGiniCoefficient": 0.43,
+        "scStLiteracyGap": 9.0,
+        "urbanRuralIncomeRatio": 2.3
+      }
+    }
+  }
+},
+{
+  "state": "West Bengal",
+  "capital": {
+    "city": "Kolkata",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "data": {
+      "2023": {
+        "values": {
+          "gdpUsdBn": 180,
+          "hdi": 0.65,
+          "aqi": 160,
+          "literacyRate": 77.0,
+          "hospitalBedsPer1000": 0.9,
+          "unemploymentRate": 6.0,
+          "populationMillions": 100.0,
+          "perCapitaIncomeUsd": 1800,
+          "crimeRatePer100k": 250.0
+        },
+        "growth": {
+          "gdpUsdBn": 5.0,
+          "hdi": 0.2,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.3,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 10.0,
+          "crimeRatePer100k": -5.0
+        }
+      },
+      "2024": {
+        "values": {
+          "gdpUsdBn": 190,
+          "hdi": 0.67,
+          "aqi": 155,
+          "literacyRate": 78.5,
+          "hospitalBedsPer1000": 1.0,
+          "unemploymentRate": 5.8,
+          "populationMillions": 101.0,
+          "perCapitaIncomeUsd": 1850,
+          "crimeRatePer100k": 245.0
+        },
+        "growth": {
+          "gdpUsdBn": 6.0,
+          "hdi": 0.3,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.2,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 15.0,
+          "crimeRatePer100k": -5.0
+        }
+      },
+      "2025": {
+        "values": {
+          "gdpUsdBn": 200,
+          "hdi": 0.70,
+          "aqi": 150,
+          "literacyRate": 80.0,
+          "hospitalBedsPer1000": 1.1,
+          "unemploymentRate": 5.5,
+          "populationMillions": 102.0,
+          "perCapitaIncomeUsd": 1900,
+          "crimeRatePer100k": 240.0
+        },
+        "growth": {
+          "gdpUsdBn": 7.0,
+          "hdi": 0.4,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.3,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 10.0,
+          "crimeRatePer100k": -5.0
+        }
+      }
+    }
+  },
+  "stateData": {
+    "2023": {
+      "economic": {
+        "gdpUsdBn": 180,
+        "gdpGrowthRate": 5.5,
+        "fdiInflowsUsdBn": 4.0,
+        "industrialOutputGrowth": 5.0,
+        "itExportsUsdBn": 8.0
+      },
+      "social": {
+        "hdi": 0.650,
+        "genderGapIndex": 0.68,
+        "povertyRate": 25.0,
+        "schoolEnrollmentRate": 90.0
+      },
+      "health": {
+        "lifeExpectancy": 70.0,
+        "infantMortalityPer1000": 35.0,
+        "physiciansPer1000": 0.6,
+        "immunizationRate": 80.0
+      },
+      "environment": {
+        "forestCoverPercentage": 12.0,
+        "renewableEnergyPercentage": 15.0,
+        "wasteRecyclingRate": 28.0,
+        "waterQualityIndex": 65.0
+      },
+      "governance": {
+        "efficiencyIndex": 6.0,
+        "corruptionIndex": 3.0,
+        "publicSatisfaction": 70.0,
+        "lawAndOrderIndex": 6.5
+      },
+      "equality": {
+        "genderPayGap": 18.0,
+        "incomeGiniCoefficient": 0.42,
+        "scStLiteracyGap": 8.0,
+        "urbanRuralIncomeRatio": 2.2
+      }
+    },
+    "2024": {
+      "economic": {
+        "gdpUsdBn": 190,
+        "gdpGrowthRate": 6.0,
+        "fdiInflowsUsdBn": 4.5,
+        "industrialOutputGrowth": 5.5,
+        "itExportsUsdBn": 9.0
+      },
+      "social": {
+        "hdi": 0.670,
+        "genderGapIndex": 0.66,
+        "povertyRate": 24.0,
+        "schoolEnrollmentRate": 91.0
+      },
+      "health": {
+        "lifeExpectancy": 70.5,
+        "infantMortalityPer1000": 34.0,
+        "physiciansPer1000": 0.7,
+        "immunizationRate": 81.0
+      },
+      "environment": {
+        "forestCoverPercentage": 12.5,
+        "renewableEnergyPercentage": 16.0,
+        "wasteRecyclingRate": 30.0,
+        "waterQualityIndex": 66.0
+      },
+      "governance": {
+        "efficiencyIndex": 6.2,
+        "corruptionIndex": 2.9,
+        "publicSatisfaction": 71.0,
+        "lawAndOrderIndex": 6.7
+      },
+      "equality": {
+        "genderPayGap": 17.5,
+        "incomeGiniCoefficient": 0.41,
+        "scStLiteracyGap": 7.5,
+        "urbanRuralIncomeRatio": 2.1
+      }
+    },
+    "2025": {
+      "economic": {
+        "gdpUsdBn": 200,
+        "gdpGrowthRate": 6.5,
+        "fdiInflowsUsdBn": 5.0,
+        "industrialOutputGrowth": 6.0,
+        "itExportsUsdBn": 10.0
+      },
+      "social": {
+        "hdi": 0.700,
+        "genderGapIndex": 0.65,
+        "povertyRate": 23.0,
+        "schoolEnrollmentRate": 92.0
+      },
+      "health": {
+        "lifeExpectancy": 71.0,
+        "infantMortalityPer1000": 32.0,
+        "physiciansPer1000": 0.8,
+        "immunizationRate": 82.0
+      },
+      "environment": {
+        "forestCoverPercentage": 13.0,
+        "renewableEnergyPercentage": 17.0,
+        "wasteRecyclingRate": 32.0,
+        "waterQualityIndex": 67.0
+      },
+      "governance": {
+        "efficiencyIndex": 6.5,
+        "corruptionIndex": 2.8,
+        "publicSatisfaction": 72.0,
+        "lawAndOrderIndex": 7.0
+      },
+      "equality": {
+        "genderPayGap": 17.0,
+        "incomeGiniCoefficient": 0.40,
+        "scStLiteracyGap": 7.0,
+        "urbanRuralIncomeRatio": 2.0
+      }
+    }
+  }
+},
+{
+  "state": "Rajasthan",
+  "capital": {
+    "city": "Jaipur",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "data": {
+      "2023": {
+        "values": {
+          "gdpUsdBn": 150,
+          "hdi": 0.63,
+          "aqi": 145,
+          "literacyRate": 69.7,
+          "hospitalBedsPer1000": 1.0,
+          "unemploymentRate": 5.8,
+          "populationMillions": 79.5,
+          "perCapitaIncomeUsd": 1600,
+          "crimeRatePer100k": 180.0
+        },
+        "growth": {
+          "gdpUsdBn": 6.5,
+          "hdi": 0.3,
+          "aqi": -4.0,
+          "literacyRate": 0.4,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.2,
+          "populationMillions": 1.2,
+          "perCapitaIncomeUsd": 8.0,
+          "crimeRatePer100k": -3.0
+        }
+      },
+      "2024": {
+        "values": {
+          "gdpUsdBn": 160,
+          "hdi": 0.65,
+          "aqi": 140,
+          "literacyRate": 70.5,
+          "hospitalBedsPer1000": 1.1,
+          "unemploymentRate": 5.5,
+          "populationMillions": 80.5,
+          "perCapitaIncomeUsd": 1700,
+          "crimeRatePer100k": 175.0
+        },
+        "growth": {
+          "gdpUsdBn": 7.0,
+          "hdi": 0.4,
+          "aqi": -4.5,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.3,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 7.0,
+          "crimeRatePer100k": -2.5
+        }
+      },
+      "2025": {
+        "values": {
+          "gdpUsdBn": 170,
+          "hdi": 0.67,
+          "aqi": 135,
+          "literacyRate": 71.5,
+          "hospitalBedsPer1000": 1.2,
+          "unemploymentRate": 5.2,
+          "populationMillions": 81.5,
+          "perCapitaIncomeUsd": 1800,
+          "crimeRatePer100k": 170.0
+        },
+        "growth": {
+          "gdpUsdBn": 7.5,
+          "hdi": 0.5,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.3,
+          "populationMillions": 1.0,
+          "perCapitaIncomeUsd": 6.0,
+          "crimeRatePer100k": -2.0
+        }
+      }
+    }
+  },
+  "stateData": {
+    "2023": {
+      "economic": {
+        "gdpUsdBn": 150,
+        "gdpGrowthRate": 6.5,
+        "fdiInflowsUsdBn": 3.5,
+        "industrialOutputGrowth": 5.5,
+        "miningOutputGrowth": 4.5,
+        "tourismRevenueUsdBn": 2.8
+      },
+      "social": {
+        "hdi": 0.630,
+        "genderGapIndex": 0.64,
+        "povertyRate": 24.5,
+        "schoolEnrollmentRate": 85.0,
+        "childMarriageRate": 25.3
+      },
+      "health": {
+        "lifeExpectancy": 68.5,
+        "infantMortalityPer1000": 38.0,
+        "physiciansPer1000": 0.6,
+        "immunizationRate": 78.0,
+        "malnutritionRate": 35.2
+      },
+      "environment": {
+        "forestCoverPercentage": 9.5,
+        "renewableEnergyPercentage": 18.0,
+        "wasteRecyclingRate": 25.0,
+        "waterQualityIndex": 62.0,
+        "desertificationRate": 0.8
+      },
+      "governance": {
+        "efficiencyIndex": 6.2,
+        "corruptionIndex": 3.8,
+        "publicSatisfaction": 68.0,
+        "lawAndOrderIndex": 6.8,
+        "eGovernanceAdoption": 45.0
+      },
+      "equality": {
+        "genderPayGap": 19.0,
+        "incomeGiniCoefficient": 0.41,
+        "scStLiteracyGap": 9.5,
+        "urbanRuralIncomeRatio": 2.1,
+        "womenWorkforceParticipation": 28.0
+      }
+    },
+    "2024": {
+      "economic": {
+        "gdpUsdBn": 160,
+        "gdpGrowthRate": 7.0,
+        "fdiInflowsUsdBn": 4.0,
+        "industrialOutputGrowth": 6.0,
+        "miningOutputGrowth": 5.0,
+        "tourismRevenueUsdBn": 3.0
+      },
+      "social": {
+        "hdi": 0.650,
+        "genderGapIndex": 0.65,
+        "povertyRate": 23.5,
+        "schoolEnrollmentRate": 86.0,
+        "childMarriageRate": 24.0
+      },
+      "health": {
+        "lifeExpectancy": 69.0,
+        "infantMortalityPer1000": 36.0,
+        "physiciansPer1000": 0.7,
+        "immunizationRate": 80.0,
+        "malnutritionRate": 33.5
+      },
+      "environment": {
+        "forestCoverPercentage": 10.0,
+        "renewableEnergyPercentage": 20.0,
+        "wasteRecyclingRate": 28.0,
+        "waterQualityIndex": 63.0,
+        "desertificationRate": 0.7
+      },
+      "governance": {
+        "efficiencyIndex": 6.4,
+        "corruptionIndex": 3.6,
+        "publicSatisfaction": 69.0,
+        "lawAndOrderIndex": 7.0,
+        "eGovernanceAdoption": 50.0
+      },
+      "equality": {
+        "genderPayGap": 18.5,
+        "incomeGiniCoefficient": 0.40,
+        "scStLiteracyGap": 9.0,
+        "urbanRuralIncomeRatio": 2.0,
+        "womenWorkforceParticipation": 30.0
+      }
+    },
+    "2025": {
+      "economic": {
+        "gdpUsdBn": 170,
+        "gdpGrowthRate": 7.5,
+        "fdiInflowsUsdBn": 4.5,
+        "industrialOutputGrowth": 6.5,
+        "miningOutputGrowth": 5.5,
+        "tourismRevenueUsdBn": 3.2
+      },
+      "social": {
+        "hdi": 0.670,
+        "genderGapIndex": 0.66,
+        "povertyRate": 22.5,
+        "schoolEnrollmentRate": 87.0,
+        "childMarriageRate": 22.5
+      },
+      "health": {
+        "lifeExpectancy": 69.5,
+        "infantMortalityPer1000": 34.0,
+        "physiciansPer1000": 0.8,
+        "immunizationRate": 82.0,
+        "malnutritionRate": 32.0
+      },
+      "environment": {
+        "forestCoverPercentage": 10.5,
+        "renewableEnergyPercentage": 22.0,
+        "wasteRecyclingRate": 30.0,
+        "waterQualityIndex": 64.0,
+        "desertificationRate": 0.6
+      },
+      "governance": {
+        "efficiencyIndex": 6.6,
+        "corruptionIndex": 3.4,
+        "publicSatisfaction": 70.0,
+        "lawAndOrderIndex": 7.2,
+        "eGovernanceAdoption": 55.0
+      },
+      "equality": {
+        "genderPayGap": 18.0,
+        "incomeGiniCoefficient": 0.39,
+        "scStLiteracyGap": 8.5,
+        "urbanRuralIncomeRatio": 1.9,
+        "womenWorkforceParticipation": 32.0
+      }
+    }
+  }
+},
+{
+  "state": "Andhra Pradesh",
+  "capital": {
+    "city": "Amaravati",
+    "lat": 16.5062,
+    "lon": 80.6480,
+    "data": {
+      "2023": {
+        "values": {
+          "gdpUsdBn": 120,
+          "hdi": 0.58,
+          "aqi": 150,
+          "literacyRate": 67.0,
+          "hospitalBedsPer1000": 1.2,
+          "unemploymentRate": 6.0,
+          "populationMillions": 50.0,
+          "perCapitaIncomeUsd": 1400,
+          "crimeRatePer100k": 200.0
+        },
+        "growth": {
+          "gdpUsdBn": 5.0,
+          "hdi": 0.2,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.3,
+          "populationMillions": 0.5,
+          "perCapitaIncomeUsd": 10.0,
+          "crimeRatePer100k": -5.0
+        }
+      },
+      "2024": {
+        "values": {
+          "gdpUsdBn": 125,
+          "hdi": 0.60,
+          "aqi": 145,
+          "literacyRate": 68.5,
+          "hospitalBedsPer1000": 1.3,
+          "unemploymentRate": 5.8,
+          "populationMillions": 50.5,
+          "perCapitaIncomeUsd": 1500,
+          "crimeRatePer100k": 195.0
+        },
+        "growth": {
+          "gdpUsdBn": 5.5,
+          "hdi": 0.2,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.2,
+          "populationMillions": 0.5,
+          "perCapitaIncomeUsd": 10.0,
+          "crimeRatePer100k": -5.0
+        }
+      },
+      "2025": {
+        "values": {
+          "gdpUsdBn": 130,
+          "hdi": 0.62,
+          "aqi": 140,
+          "literacyRate": 70.0,
+          "hospitalBedsPer1000": 1.4,
+          "unemploymentRate": 5.5,
+          "populationMillions": 51.0,
+          "perCapitaIncomeUsd": 1600,
+          "crimeRatePer100k": 190.0
+        },
+        "growth": {
+          "gdpUsdBn": 5.0,
+          "hdi": 0.2,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.3,
+          "populationMillions": 0.5,
+          "perCapitaIncomeUsd": 10.0,
+          "crimeRatePer100k": -5.0
+        }
+      }
+    }
+  },
+  "stateData": {
+    "2023": {
+      "economic": {
+        "gdpUsdBn": 120,
+        "gdpGrowthRate": 5.0,
+        "fdiInflowsUsdBn": 2.0,
+        "industrialOutputGrowth": 4.0,
+        "miningOutputGrowth": 3.0,
+        "tourismRevenueUsdBn": 1.5
+      },
+      "social": {
+        "hdi": 0.580,
+        "genderGapIndex": 0.65,
+        "povertyRate": 20.0,
+        "schoolEnrollmentRate": 84.0,
+        "childMarriageRate": 26.0
+      },
+      "health": {
+        "lifeExpectancy": 67.0,
+        "infantMortalityPer1000": 40.0,
+        "physiciansPer1000": 0.5,
+        "immunizationRate": 75.0,
+        "malnutritionRate": 30.0
+      },
+      "environment": {
+        "forestCoverPercentage": 20.0,
+        "renewableEnergyPercentage": 15.0,
+        "wasteRecyclingRate": 20.0,
+        "waterQualityIndex": 60.0,
+        "desertificationRate": 1.0
+      },
+      "governance": {
+        "efficiencyIndex": 5.5,
+        "corruptionIndex": 4.0,
+        "publicSatisfaction": 65.0,
+        "lawAndOrderIndex": 6.0,
+        "eGovernanceAdoption": 40.0
+      },
+      "equality": {
+        "genderPayGap": 20.0,
+        "incomeGiniCoefficient": 0.42,
+        "scStLiteracyGap": 10.0,
+        "urbanRuralIncomeRatio": 2.5,
+        "womenWorkforceParticipation": 30.0
+      }
+    },
+    "2024": {
+      "economic": {
+        "gdpUsdBn": 125,
+        "gdpGrowthRate": 5.5,
+        "fdiInflowsUsdBn": 2.5,
+        "industrialOutputGrowth": 4.5,
+        "miningOutputGrowth": 3.5,
+        "tourismRevenueUsdBn": 1.8
+      },
+      "social": {
+        "hdi": 0.600,
+        "genderGapIndex": 0.63,
+        "povertyRate": 19.5,
+        "schoolEnrollmentRate": 85.0,
+        "childMarriageRate": 25.0
+      },
+      "health": {
+        "lifeExpectancy": 67.5,
+        "infantMortalityPer1000": 38.0,
+        "physiciansPer1000": 0.6,
+        "immunizationRate": 77.0,
+        "malnutritionRate": 28.0
+      },
+      "environment": {
+        "forestCoverPercentage": 20.5,
+        "renewableEnergyPercentage": 16.0,
+        "wasteRecyclingRate": 22.0,
+        "waterQualityIndex": 61.0,
+        "desertificationRate": 0.9
+      },
+      "governance": {
+        "efficiencyIndex": 5.7,
+        "corruptionIndex": 3.8,
+        "publicSatisfaction": 66.0,
+        "lawAndOrderIndex": 6.2,
+        "eGovernanceAdoption": 42.0
+      },
+      "equality": {
+        "genderPayGap": 19.5,
+        "incomeGiniCoefficient": 0.41,
+        "scStLiteracyGap": 9.5,
+        "urbanRuralIncomeRatio": 2.4,
+        "womenWorkforceParticipation": 31.0
+      }
+    },
+    "2025": {
+      "economic": {
+        "gdpUsdBn": 130,
+        "gdpGrowthRate": 5.0,
+        "fdiInflowsUsdBn": 3.0,
+        "industrialOutputGrowth": 5.0,
+        "miningOutputGrowth": 4.0,
+        "tourismRevenueUsdBn": 2.0
+      },
+      "social": {
+        "hdi": 0.620,
+        "genderGapIndex": 0.62,
+        "povertyRate": 19.0,
+        "schoolEnrollmentRate": 86.0,
+        "childMarriageRate": 24.0
+      },
+      "health": {
+        "lifeExpectancy": 68.0,
+        "infantMortalityPer1000": 36.0,
+        "physiciansPer1000": 0.7,
+        "immunizationRate": 78.0,
+        "malnutritionRate": 27.0
+      },
+      "environment": {
+        "forestCoverPercentage": 21.0,
+        "renewableEnergyPercentage": 17.0,
+        "wasteRecyclingRate": 25.0,
+        "waterQualityIndex": 62.0,
+        "desertificationRate": 0.8
+      },
+      "governance": {
+        "efficiencyIndex": 5.9,
+        "corruptionIndex": 3.6,
+        "publicSatisfaction": 67.0,
+        "lawAndOrderIndex": 6.5,
+        "eGovernanceAdoption": 45.0
+      },
+      "equality": {
+        "genderPayGap": 19.0,
+        "incomeGiniCoefficient": 0.40,
+        "scStLiteracyGap": 9.0,
+        "urbanRuralIncomeRatio": 2.3,
+        "womenWorkforceParticipation": 32.0
+      }
+    }
+  }
+},
+{
+  "state": "Telangana",
+  "capital": {
+    "city": "Hyderabad",
+    "lat": 17.3850,
+    "lon": 78.4867,
+    "data": {
+      "2023": {
+        "values": {
+          "gdpUsdBn": 165,
+          "hdi": 0.70,
+          "aqi": 135,
+          "literacyRate": 72.8,
+          "hospitalBedsPer1000": 1.5,
+          "unemploymentRate": 5.2,
+          "populationMillions": 39.0,
+          "perCapitaIncomeUsd": 2800,
+          "crimeRatePer100k": 190.0,
+          "itExportsUsdBn": 22.5
+        },
+        "growth": {
+          "gdpUsdBn": 8.5,
+          "hdi": 0.4,
+          "aqi": -6.0,
+          "literacyRate": 0.6,
+          "hospitalBedsPer1000": 0.2,
+          "unemploymentRate": -0.3,
+          "populationMillions": 0.8,
+          "perCapitaIncomeUsd": 12.0,
+          "crimeRatePer100k": -4.0,
+          "itExportsUsdBn": 15.0
+        }
+      },
+      "2024": {
+        "values": {
+          "gdpUsdBn": 180,
+          "hdi": 0.72,
+          "aqi": 130,
+          "literacyRate": 74.0,
+          "hospitalBedsPer1000": 1.7,
+          "unemploymentRate": 5.0,
+          "populationMillions": 39.8,
+          "perCapitaIncomeUsd": 3000,
+          "crimeRatePer100k": 185.0,
+          "itExportsUsdBn": 25.0
+        },
+        "growth": {
+          "gdpUsdBn": 9.0,
+          "hdi": 0.5,
+          "aqi": -5.0,
+          "literacyRate": 0.7,
+          "hospitalBedsPer1000": 0.2,
+          "unemploymentRate": -0.2,
+          "populationMillions": 0.8,
+          "perCapitaIncomeUsd": 10.0,
+          "crimeRatePer100k": -3.5,
+          "itExportsUsdBn": 12.0
+        }
+      },
+      "2025": {
+        "values": {
+          "gdpUsdBn": 195,
+          "hdi": 0.74,
+          "aqi": 125,
+          "literacyRate": 75.5,
+          "hospitalBedsPer1000": 1.9,
+          "unemploymentRate": 4.8,
+          "populationMillions": 40.5,
+          "perCapitaIncomeUsd": 3200,
+          "crimeRatePer100k": 180.0,
+          "itExportsUsdBn": 28.0
+        },
+        "growth": {
+          "gdpUsdBn": 8.5,
+          "hdi": 0.5,
+          "aqi": -5.0,
+          "literacyRate": 0.8,
+          "hospitalBedsPer1000": 0.2,
+          "unemploymentRate": -0.2,
+          "populationMillions": 0.7,
+          "perCapitaIncomeUsd": 8.0,
+          "crimeRatePer100k": -3.0,
+          "itExportsUsdBn": 10.0
+        }
+      }
+    }
+  },
+  "stateData": {
+    "2023": {
+      "economic": {
+        "gdpUsdBn": 165,
+        "gdpGrowthRate": 8.5,
+        "fdiInflowsUsdBn": 5.5,
+        "industrialOutputGrowth": 7.8,
+        "pharmaExportsUsdBn": 4.2,
+        "itExportsUsdBn": 22.5,
+        "startupFundingUsdBn": 1.8
+      },
+      "social": {
+        "hdi": 0.700,
+        "genderGapIndex": 0.68,
+        "povertyRate": 15.5,
+        "schoolEnrollmentRate": 88.0,
+        "digitalLiteracyRate": 65.0
+      },
+      "health": {
+        "lifeExpectancy": 71.5,
+        "infantMortalityPer1000": 28.0,
+        "physiciansPer1000": 1.1,
+        "immunizationRate": 82.0,
+        "medicalTourismRevenueUsdBn": 0.9
+      },
+      "environment": {
+        "forestCoverPercentage": 24.0,
+        "renewableEnergyPercentage": 25.0,
+        "wasteRecyclingRate": 35.0,
+        "waterQualityIndex": 68.0,
+        "hyderabadGreenCoverPercentage": 18.5
+      },
+      "governance": {
+        "efficiencyIndex": 7.2,
+        "corruptionIndex": 3.8,
+        "publicSatisfaction": 72.0,
+        "lawAndOrderIndex": 7.5,
+        "eGovernanceAdoption": 68.0
+      },
+      "equality": {
+        "genderPayGap": 16.0,
+        "incomeGiniCoefficient": 0.38,
+        "scStLiteracyGap": 7.5,
+        "urbanRuralIncomeRatio": 1.9,
+        "womenWorkforceParticipation": 38.0
+      }
+    },
+    "2024": {
+      "economic": {
+        "gdpUsdBn": 180,
+        "gdpGrowthRate": 9.0,
+        "fdiInflowsUsdBn": 6.2,
+        "industrialOutputGrowth": 8.2,
+        "pharmaExportsUsdBn": 4.8,
+        "itExportsUsdBn": 25.0,
+        "startupFundingUsdBn": 2.2
+      },
+      "social": {
+        "hdi": 0.720,
+        "genderGapIndex": 0.69,
+        "povertyRate": 14.5,
+        "schoolEnrollmentRate": 89.0,
+        "digitalLiteracyRate": 68.0
+      },
+      "health": {
+        "lifeExpectancy": 72.0,
+        "infantMortalityPer1000": 26.0,
+        "physiciansPer1000": 1.2,
+        "immunizationRate": 84.0,
+        "medicalTourismRevenueUsdBn": 1.1
+      },
+      "environment": {
+        "forestCoverPercentage": 24.5,
+        "renewableEnergyPercentage": 28.0,
+        "wasteRecyclingRate": 38.0,
+        "waterQualityIndex": 69.0,
+        "hyderabadGreenCoverPercentage": 19.0
+      },
+      "governance": {
+        "efficiencyIndex": 7.4,
+        "corruptionIndex": 3.6,
+        "publicSatisfaction": 73.0,
+        "lawAndOrderIndex": 7.7,
+        "eGovernanceAdoption": 70.0
+      },
+      "equality": {
+        "genderPayGap": 15.5,
+        "incomeGiniCoefficient": 0.37,
+        "scStLiteracyGap": 7.0,
+        "urbanRuralIncomeRatio": 1.8,
+        "womenWorkforceParticipation": 40.0
+      }
+    },
+    "2025": {
+      "economic": {
+        "gdpUsdBn": 195,
+        "gdpGrowthRate": 8.5,
+        "fdiInflowsUsdBn": 7.0,
+        "industrialOutputGrowth": 8.5,
+        "pharmaExportsUsdBn": 5.5,
+        "itExportsUsdBn": 28.0,
+        "startupFundingUsdBn": 2.6
+      },
+      "social": {
+        "hdi": 0.740,
+        "genderGapIndex": 0.70,
+        "povertyRate": 13.5,
+        "schoolEnrollmentRate": 90.0,
+        "digitalLiteracyRate": 70.0
+      },
+      "health": {
+        "lifeExpectancy": 72.5,
+        "infantMortalityPer1000": 24.0,
+        "physiciansPer1000": 1.3,
+        "immunizationRate": 86.0,
+        "medicalTourismRevenueUsdBn": 1.3
+      },
+      "environment": {
+        "forestCoverPercentage": 25.0,
+        "renewableEnergyPercentage": 30.0,
+        "wasteRecyclingRate": 40.0,
+        "waterQualityIndex": 70.0,
+        "hyderabadGreenCoverPercentage": 20.0
+      },
+      "governance": {
+        "efficiencyIndex": 7.6,
+        "corruptionIndex": 3.4,
+        "publicSatisfaction": 74.0,
+        "lawAndOrderIndex": 7.9,
+        "eGovernanceAdoption": 72.0
+      },
+      "equality": {
+        "genderPayGap": 15.0,
+        "incomeGiniCoefficient": 0.36,
+        "scStLiteracyGap": 6.5,
+        "urbanRuralIncomeRatio": 1.7,
+        "womenWorkforceParticipation": 42.0
+      }
+    }
+  }
+},
+{
+  "state": "Madhya Pradesh",
+  "capital": {
+    "city": "Bhopal",
+    "lat": 23.2599,
+    "lon": 77.4126,
+    "data": {
+      "2023": {
+        "values": {
+          "gdpUsdBn": 150,
+          "hdi": 0.65,
+          "aqi": 140,
+          "literacyRate": 70.0,
+          "hospitalBedsPer1000": 1.2,
+          "unemploymentRate": 6.0,
+          "populationMillions": 85.0,
+          "perCapitaIncomeUsd": 2200,
+          "crimeRatePer100k": 200.0,
+          "itExportsUsdBn": 10.0
+        },
+        "growth": {
+          "gdpUsdBn": 7.0,
+          "hdi": 0.3,
+          "aqi": -5.0,
+          "literacyRate": 0.5,
+          "hospitalBedsPer1000": 0.1,
+          "unemploymentRate": -0.2,
+          "populationMillions": 0.5,
+          "perCapitaIncomeUsd": 8.0,
+          "crimeRatePer100k": -5.0,
+          "itExportsUsdBn": 2.0
+        }
+      },
+      "2024": {
+        "values": {
+          "gdpUsdBn": 160,
+          "hdi": 0.67,
+          "aqi": 135,
+          "literacyRate": 72.0,
+          "hospitalBedsPer1000": 1.4,
+          "unemploymentRate": 5.8,
+          "populationMillions": 86.0,
+          "perCapitaIncomeUsd": 2300,
+          "crimeRatePer100k": 195.0,
+          "itExportsUsdBn": 12.0
+        },
+        "growth": {
+          "gdpUsdBn": 8.0,
+          "hdi": 0.4,
+          "aqi": -5.0,
+          "literacyRate": 0.6,
+          "hospitalBedsPer1000": 0.2,
+          "unemploymentRate": -0.2,
+          "populationMillions": 0.5,
+          "perCapitaIncomeUsd": 10.0,
+          "crimeRatePer100k": -4.0,
+          "itExportsUsdBn": 2.5
+        }
+      },
+      "2025": {
+        "values": {
+          "gdpUsdBn": 170,
+          "hdi": 0.70,
+          "aqi": 130,
+          "literacyRate": 74.0,
+          "hospitalBedsPer1000": 1.6,
+          "unemploymentRate": 5.5,
+          "populationMillions": 87.0,
+          "perCapitaIncomeUsd": 2400,
+          "crimeRatePer100k": 190.0,
+          "itExportsUsdBn": 14.0
+        },
+        "growth": {
+          "gdpUsdBn": 7.0,
+          "hdi": 0.3,
+          "aqi": -5.0,
+          "literacyRate": 0.8,
+          "hospitalBedsPer1000": 0.2,
+          "unemploymentRate": -0.3,
+          "populationMillions": 0.5,
+          "perCapitaIncomeUsd": 8.0,
+          "crimeRatePer100k": -5.0,
+          "itExportsUsdBn": 2.0
+        }
+      }
+    }
+  },
+  "stateData": {
+    "2023": {
+      "economic": {
+        "gdpUsdBn": 150,
+        "gdpGrowthRate": 7.0,
+        "fdiInflowsUsdBn": 4.0,
+        "industrialOutputGrowth": 6.0,
+        "pharmaExportsUsdBn": 3.0,
+        "itExportsUsdBn": 10.0,
+        "startupFundingUsdBn": 1.0
+      },
+      "social": {
+        "hdi": 0.650,
+        "genderGapIndex": 0.65,
+        "povertyRate": 20.0,
+        "schoolEnrollmentRate": 85.0,
+        "digitalLiteracyRate": 60.0
+      },
+      "health": {
+        "lifeExpectancy": 69.0,
+        "infantMortalityPer1000": 30.0,
+        "physiciansPer1000": 0.9,
+        "immunizationRate": 80.0,
+        "medicalTourismRevenueUsdBn": 0.5
+      },
+      "environment": {
+        "forestCoverPercentage": 30.0,
+        "renewableEnergyPercentage": 20.0,
+        "wasteRecyclingRate": 30.0,
+        "waterQualityIndex": 65.0,
+        "bhopalGreenCoverPercentage": 15.0
+      },
+      "governance": {
+        "efficiencyIndex": 6.5,
+        "corruptionIndex": 4.0,
+        "publicSatisfaction": 70.0,
+        "lawAndOrderIndex": 6.5,
+        "eGovernanceAdoption": 60.0
+      },
+      "equality": {
+        "genderPayGap": 18.0,
+        "incomeGiniCoefficient": 0.40,
+        "scStLiteracyGap": 8.0,
+        "urbanRuralIncomeRatio": 2.0,
+        "womenWorkforceParticipation": 35.0
+      }
+    },
+    "2024": {
+      "economic": {
+        "gdpUsdBn": 160,
+        "gdpGrowthRate": 8.0,
+        "fdiInflowsUsdBn": 4.5,
+        "industrialOutputGrowth": 6.5,
+        "pharmaExportsUsdBn": 3.5,
+        "itExportsUsdBn": 12.0,
+        "startupFundingUsdBn": 1.5
+      },
+      "social": {
+        "hdi": 0.670,
+        "genderGapIndex": 0.66,
+        "povertyRate": 19.0,
+        "schoolEnrollmentRate": 86.0,
+        "digitalLiteracyRate": 62.0
+      },
+      "health": {
+        "lifeExpectancy": 70.0,
+        "infantMortalityPer1000": 28.0,
+        "physiciansPer1000": 1.0,
+        "immunizationRate": 82.0,
+        "medicalTourismRevenueUsdBn": 0.6
+      },
+      "environment": {
+        "forestCoverPercentage": 30.5,
+        "renewableEnergyPercentage": 22.0,
+        "wasteRecyclingRate": 32.0,
+        "waterQualityIndex": 66.0,
+        "bhopalGreenCoverPercentage": 15.5
+      },
+      "governance": {
+        "efficiencyIndex": 6.7,
+        "corruptionIndex": 3.8,
+        "publicSatisfaction": 71.0,
+        "lawAndOrderIndex": 6.7,
+        "eGovernanceAdoption": 62.0
+      },
+      "equality": {
+        "genderPayGap": 17.5,
+        "incomeGiniCoefficient": 0.39,
+        "scStLiteracyGap": 7.5,
+        "urbanRuralIncomeRatio": 1.9,
+        "womenWorkforceParticipation": 36.0
+      }
+    },
+    "2025": {
+      "economic": {
+        "gdpUsdBn": 170,
+        "gdpGrowthRate": 7.0,
+        "fdiInflowsUsdBn": 5.0,
+        "industrialOutputGrowth": 7.0,
+        "pharmaExportsUsdBn": 4.0,
+        "itExportsUsdBn": 14.0,
+        "startupFundingUsdBn": 2.0
+      },
+      "social": {
+        "hdi": 0.700,
+        "genderGapIndex": 0.67,
+        "povertyRate": 18.0,
+        "schoolEnrollmentRate": 87.0,
+        "digitalLiteracyRate": 65.0
+      },
+      "health": {
+        "lifeExpectancy": 71.0,
+        "infantMortalityPer1000": 26.0,
+        "physiciansPer1000": 1.1,
+        "immunizationRate": 84.0,
+        "medicalTourismRevenueUsdBn": 0.7
+      },
+      "environment": {
+        "forestCoverPercentage": 31.0,
+        "renewableEnergyPercentage": 25.0,
+        "wasteRecyclingRate": 35.0,
+        "waterQualityIndex": 67.0,
+        "bhopalGreenCoverPercentage": 16.0
+      },
+      "governance": {
+        "efficiencyIndex": 6.9,
+        "corruptionIndex": 3.5,
+        "publicSatisfaction": 72.0,
+        "lawAndOrderIndex": 6.9,
+        "eGovernanceAdoption": 64.0
+      },
+      "equality": {
+        "genderPayGap": 17.0,
+        "incomeGiniCoefficient": 0.38,
+        "scStLiteracyGap": 7.0,
+        "urbanRuralIncomeRatio": 1.8,
+        "womenWorkforceParticipation": 37.0
+      }
+    }
+  }
+},
+{ "state": "Delhi",
+    "capital": {
+      "city": "New Delhi",
+      "lat": 28.6139,
+      "lon": 77.2090,
+      "data": {
+        "2023": {
+          "values": {
+            "gdpUsdBn": 55,
+            "hdi": 0.80,
+            "aqi": 190,
+            "literacyRate": 89.9,
+            "hospitalBedsPer1000": 2.1,
+            "unemploymentRate": 7.2,
+            "populationMillions": 32.1,
+            "perCapitaIncomeUsd": 4710,
+            "crimeRatePer100k": 185.6
+          },
+          "growth": {
+            "gdpUsdBn": 5.5,
+            "hdi": 1.0,
+            "aqi": -3.5,
+            "literacyRate": 0.1,
+            "hospitalBedsPer1000": 5.0,
+            "unemploymentRate": -0.4,
+            "populationMillions": 2.0,
+            "perCapitaIncomeUsd": 5.8,
+            "crimeRatePer100k": -1.2
+          }
+        },
+        "2024": {
+          "values": {
+            "gdpUsdBn": 58,
+            "hdi": 0.81,
+            "aqi": 183,
+            "literacyRate": 90.0,
+            "hospitalBedsPer1000": 2.2,
+            "unemploymentRate": 6.9,
+            "populationMillions": 32.7,
+            "perCapitaIncomeUsd": 4982,
+            "crimeRatePer100k": 183.4
+          },
+          "growth": {
+            "gdpUsdBn": 5.5,
+            "hdi": 1.0,
+            "aqi": -3.7,
+            "literacyRate": 0.1,
+            "hospitalBedsPer1000": 4.8,
+            "unemploymentRate": -0.3,
+            "populationMillions": 1.9,
+            "perCapitaIncomeUsd": 5.8,
+            "crimeRatePer100k": -1.2
+          }
+        },
+        "2025": {
+          "values": {
+            "gdpUsdBn": 61,
+            "hdi": 0.82,
+            "aqi": 176,
+            "literacyRate": 90.1,
+            "hospitalBedsPer1000": 2.3,
+            "unemploymentRate": 6.7,
+            "populationMillions": 33.3,
+            "perCapitaIncomeUsd": 5270,
+            "crimeRatePer100k": 181.2
+          },
+          "growth": {
+            "gdpUsdBn": 5.5,
+            "hdi": 1.0,
+            "aqi": -3.9,
+            "literacyRate": 0.1,
+            "hospitalBedsPer1000": 4.5,
+            "unemploymentRate": -0.2,
+            "populationMillions": 1.8,
+            "perCapitaIncomeUsd": 5.8,
+            "crimeRatePer100k": -1.2
+          }
+        }
+      }
+    },
+    "stateData": {
+      "2023": {
+        "economic": {
+          "gdpUsdBn": 125,
+          "gdpGrowthRate": 6.8,
+          "fdiInflowsUsdBn": 3.2,
+          "industrialOutputGrowth": 4.5
+        },
+        "social": {
+          "hdi": 0.765,
+          "genderGapIndex": 0.72,
+          "povertyRate": 8.7,
+          "schoolEnrollmentRate": 92.1
+        },
+        "health": {
+          "lifeExpectancy": 73.5,
+          "infantMortalityPer1000": 18.2,
+          "physiciansPer1000": 1.2,
+          "immunizationRate": 88.4
+        },
+        "environment": {
+          "forestCoverPercentage": 13.2,
+          "renewableEnergyPercentage": 8.5,
+          "wasteRecyclingRate": 35.2,
+          "waterQualityIndex": 68.7
+        },
+        "governance": {
+          "efficiencyIndex": 7.2,
+          "corruptionIndex": 4.8,
+          "publicSatisfaction": 72.4,
+          "lawAndOrderIndex": 7.5
+        },
+        "equality": {
+          "genderPayGap": 15.8,
+          "incomeGiniCoefficient": 0.38,
+          "scStLiteracyGap": 6.5,
+          "urbanRuralIncomeRatio": 1.8
+        }
+      },
+      "2024": {
+        "economic": {
+          "gdpUsdBn": 133,
+          "gdpGrowthRate": 6.7,
+          "fdiInflowsUsdBn": 3.4,
+          "industrialOutputGrowth": 4.7
+        },
+        "social": {
+          "hdi": 0.775,
+          "genderGapIndex": 0.73,
+          "povertyRate": 8.3,
+          "schoolEnrollmentRate": 92.5
+        },
+        "health": {
+          "lifeExpectancy": 73.9,
+          "infantMortalityPer1000": 17.6,
+          "physiciansPer1000": 1.3,
+          "immunizationRate": 89.1
+        },
+        "environment": {
+          "forestCoverPercentage": 13.5,
+          "renewableEnergyPercentage": 9.3,
+          "wasteRecyclingRate": 36.8,
+          "waterQualityIndex": 69.5
+        },
+        "governance": {
+          "efficiencyIndex": 7.3,
+          "corruptionIndex": 5.0,
+          "publicSatisfaction": 73.2,
+          "lawAndOrderIndex": 7.6
+        },
+        "equality": {
+          "genderPayGap": 15.4,
+          "incomeGiniCoefficient": 0.37,
+          "scStLiteracyGap": 6.2,
+          "urbanRuralIncomeRatio": 1.7
+        }
+      },
+      "2025": {
+        "economic": {
+          "gdpUsdBn": 142,
+          "gdpGrowthRate": 6.6,
+          "fdiInflowsUsdBn": 3.6,
+          "industrialOutputGrowth": 4.9
+        },
+        "social": {
+          "hdi": 0.785,
+          "genderGapIndex": 0.74,
+          "povertyRate": 7.9,
+          "schoolEnrollmentRate": 92.9
+        },
+        "health": {
+          "lifeExpectancy": 74.3,
+          "infantMortalityPer1000": 17.0,
+          "physiciansPer1000": 1.4,
+          "immunizationRate": 89.8
+        },
+        "environment": {
+          "forestCoverPercentage": 13.8,
+          "renewableEnergyPercentage": 10.1,
+          "wasteRecyclingRate": 38.4,
+          "waterQualityIndex": 70.3
+        },
+        "governance": {
+          "efficiencyIndex": 7.4,
+          "corruptionIndex": 5.2,
+          "publicSatisfaction": 74.0,
+          "lawAndOrderIndex": 7.7
+        },
+        "equality": {
+          "genderPayGap": 15.0,
+          "incomeGiniCoefficient": 0.36,
+          "scStLiteracyGap": 5.9,
+          "urbanRuralIncomeRatio": 1.6
+        }
+      }
+    }
+  }
+]
